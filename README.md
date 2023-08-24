@@ -1,6 +1,6 @@
 # Bellabeat Casestudy
 
-Welcome to my capstone project. I completed this case study for the Google Data Analytics Certificate. It was my first time using SQL and Tableau. Thank you for taking the time to look through it. Enjoy!
+Welcome to my capstone project. I completed this case study for the Google Data Analytics Certificate. Thank you for taking the time to look through it. Enjoy!
 
 Description of files:
 
